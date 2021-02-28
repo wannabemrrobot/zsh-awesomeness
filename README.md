@@ -103,5 +103,5 @@ command -v lsd > /dev/null && alias ls='lsd --tree'
 ## Preview Screenshots
 
 ![Initial Launch](./previewScreenshots/initial.png)
-![ls Command Preview](./PreviewScreenshots/lsPreview.png)
-![git Command Preview](./PreviewScreenshots/gitPreview.png)
+![ls Command Preview](./previewScreenshots/lsPreview.png)
+![git Command Preview](./previewScreenshots/gitPreview.png)
